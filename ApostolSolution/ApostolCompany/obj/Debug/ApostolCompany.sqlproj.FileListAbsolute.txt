@@ -1,0 +1,8 @@
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.dacpac
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.sqlproj.AssemblyReference.cache
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\Model.xml
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\refactor.xml
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\postdeploy.sql
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\predeploy.sql
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.dll
+C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.pdb
