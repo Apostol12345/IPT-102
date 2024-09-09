@@ -1,0 +1,8 @@
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.AssemblyInfoInputs.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.AssemblyInfo.cs
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.csproj.CoreCompileInputs.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.MvcApplicationPartsAssemblyInfo.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.RazorAssemblyInfo.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.RazorAssemblyInfo.cs
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolWebPage.sourcelink.json

@@ -1,0 +1,95 @@
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\appsettings.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.staticwebassets.runtime.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.exe
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.deps.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.runtimeconfig.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.dll
+C:\Users\Personal Computer\source\repos\ApostolSolution\bin\Debug\net6.0\ApostolSolution.pdb
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.AssemblyInfoInputs.cache
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.AssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.csproj.CoreCompileInputs.cache
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cache
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cs
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.ApostolSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.build.ApostolSolution.props
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApostolSolution.props
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApostolSolution.props
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\scopedcss\bundle\ApostolSolution.styles.css
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\scopedcss\projectbundle\ApostolSolution.bundle.scp.css
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.dll
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\refint\ApostolSolution.dll
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.pdb
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ApostolSolution.genruntimeconfig.cache
+C:\Users\Personal Computer\source\repos\ApostolSolution\obj\Debug\net6.0\ref\ApostolSolution.dll
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\appsettings.Development.json
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\appsettings.json
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.staticwebassets.runtime.json
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.exe
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.deps.json
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.runtimeconfig.json
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.dll
+C:\Apostol test code\try\ApostolSolution\bin\Debug\net6.0\ApostolSolution.pdb
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.AssemblyInfoInputs.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.AssemblyInfo.cs
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.csproj.CoreCompileInputs.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cs
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.sourcelink.json
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets.build.json
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets.development.json
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.ApostolSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.build.ApostolSolution.props
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApostolSolution.props
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApostolSolution.props
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\scopedcss\bundle\ApostolSolution.styles.css
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\scopedcss\projectbundle\ApostolSolution.bundle.scp.css
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.dll
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\refint\ApostolSolution.dll
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.pdb
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ApostolSolution.genruntimeconfig.cache
+C:\Apostol test code\try\ApostolSolution\obj\Debug\net6.0\ref\ApostolSolution.dll
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\appsettings.Development.json
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\appsettings.json
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.staticwebassets.runtime.json
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.exe
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.deps.json
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.runtimeconfig.json
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.dll
+C:\Apostol test code\try\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.pdb
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.AssemblyInfoInputs.cache
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.AssemblyInfo.cs
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.csproj.CoreCompileInputs.cache
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cache
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cs
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.sourcelink.json
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets.build.json
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets.development.json
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.ApostolSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.build.ApostolSolution.props
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApostolSolution.props
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApostolSolution.props
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\scopedcss\bundle\ApostolSolution.styles.css
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\scopedcss\projectbundle\ApostolSolution.bundle.scp.css
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.dll
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\refint\ApostolSolution.dll
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.pdb
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.genruntimeconfig.cache
+C:\Apostol test code\try\ApostolWebPage\obj\Debug\net6.0\ref\ApostolSolution.dll

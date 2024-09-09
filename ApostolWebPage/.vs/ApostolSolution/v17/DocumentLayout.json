@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Apostol test code\\try\\ApostolWebPage\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:shared\\mainlayout.razor.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\try\\apostolwebpage\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:25:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainLayout.razor.css",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Shared\\MainLayout.razor.css",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor.css",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Shared\\MainLayout.razor.css",
+              "RelativeToolTip": "Shared\\MainLayout.razor.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-08T14:25:42.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "Pages\\Contact.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Contact.razor",
+              "RelativeToolTip": "Pages\\Contact.razor",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-08T14:07:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:17:08.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Music.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Music.razor",
+              "RelativeDocumentMoniker": "Pages\\Music.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Music.razor",
+              "RelativeToolTip": "Pages\\Music.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:17:07.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Pages\\About.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\About.razor",
+              "RelativeToolTip": "Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:16:38.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Pages\\Profile.razor",
+              "ToolTip": "C:\\Apostol test code\\try\\ApostolWebPage\\Pages\\Profile.razor",
+              "RelativeToolTip": "Pages\\Profile.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-07T15:16:35.114Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
