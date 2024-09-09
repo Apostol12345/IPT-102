@@ -6,4 +6,4 @@
 constraint [FK_DEPT_LOCATION_Dnumber] foreign key (Dnumber) references DEPARTMENT(Dnumber)	
 );
 go
-create nonclustered index[IX_DEPT_LOCATION_Dlocation] on [db0].[DEPT_LOCATION] ([Dlocation])
+create nonclustered index[IX_DEPT_LOCATION_Dlocation] on [dbo].[DEPT_LOCATION] ([Dlocation])
