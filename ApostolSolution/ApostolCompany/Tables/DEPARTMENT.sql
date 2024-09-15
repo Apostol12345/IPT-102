@@ -4,14 +4,14 @@
 	[Dnumber] INT NOT NULL ,
 	[Mgr_ssn] CHAR(9) NOT NULL,
 	[Mgr_start_date] DATE NOT NULL,
-	constraint [PK_Department_Dnumber] primary key clustered ([Dnumber]),
-	constraint [FK_Department_Employee_Mgr_ssn] foreign key ([Mgr_ssn]) REFERENCES [Employee] ([Ssn]), 
-	constraint [UK_Department_Dname] unique nonclustered (Dname)
+	constraint [PK_DEPARTMENT_Dnumber] primary key clustered ([Dnumber]),
+	constraint [FK_DEPARTMENT_Employee_Mgr_ssn] foreign key ([Mgr_ssn]) REFERENCES [EMPLOYEE] ([Ssn]), 
+	constraint [UK_DEPARTMENT_Dname] unique nonclustered (Dname)
 
 	);
 	GO
 
-	create nonclustered index [IX_Department_Mgr_ssn] On [dbo].[Department]([Dname] ASC);
+	create nonclustered index [IX_DEPARTMENT_Mgr_ssn] On [dbo].[DEPARTMENT]([Dname] ASC);
 
 	
 	

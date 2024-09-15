@@ -15,7 +15,7 @@
 
 Go 
 
-create nonclustered index [IX,Employee_Name] ON [dbo].[Employee]([Fname] ASC, [Lname] ASC, [Minit] ASC);
+create nonclustered index [IX_EMPLOYEE_Name] ON [dbo].[EMPLOYEE]([Fname] ASC, [Lname] ASC, [Minit] ASC);
 
 
 

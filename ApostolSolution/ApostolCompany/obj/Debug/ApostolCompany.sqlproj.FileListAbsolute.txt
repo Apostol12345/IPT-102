@@ -6,3 +6,13 @@ C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\postdeplo
 C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\predeploy.sql
 C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.dll
 C:\Users\VELARDE\source\repos\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.pdb
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.dacpac
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.sqlproj.AssemblyReference.cache
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\Model.xml
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\refactor.xml
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\postdeploy.sql
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\predeploy.sql
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.dll
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.pdb
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.dll
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.pdb

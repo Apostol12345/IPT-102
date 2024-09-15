@@ -1,0 +1,42 @@
+﻿@page "/try"
+
+<p> MAKAKA PASA BA AKO THIS SEM SIR? </p>
+
+<button class="btn btn-primary" @onclick="ansA">YES</button>
+@code {
+    private string? _ansA = null;
+
+    private void ansA()
+    {
+        _ansA = "";
+    }
+}
+@if (_ansA is null)
+{
+}
+else
+{
+    <p>
+        Proverbs 16:3 - Commit Your Plans to God<br /><br />
+        "Commit to the Lord whatever you do, and he will establish your plans."<br /><br />
+
+        This verse teaches us the importance of dedicating our plans and actions to God. When we commit our ways to Him, He guides us and helps us accomplish our objectives. It's a reminder to seek God's will in all we do and trust that He will direct our paths towards success.@_ansB
+    </p>
+}
+<button class="btn btn-primary" @onclick="ansB">NO</button>
+@code {
+    private string? _ansB = null;
+
+    private void ansB()
+    {
+        _ansB = "";
+    }
+
+}
+@if (_ansA is null)
+{
+}
+else
+{
+    <p><img src="/images/cons.jpeg" />  </p>
+}

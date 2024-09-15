@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Apostol test code\\try\\ApostolWebPage\\ApostolSolution.csproj",
+      "projectUniqueName": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
       "projectName": "ApostolSolution",
-      "projectPath": "C:\\Apostol test code\\try\\ApostolWebPage\\ApostolSolution.csproj",
+      "projectPath": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
       "packagesPath": "C:\\Users\\VELARDE\\.nuget\\packages\\",
-      "outputPath": "C:\\Apostol test code\\try\\ApostolWebPage\\obj\\",
+      "outputPath": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
