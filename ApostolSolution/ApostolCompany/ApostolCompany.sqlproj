@@ -6,7 +6,7 @@
     <Name>ApostolCompany</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{1390ed73-73cc-4a2a-96d1-e8d721382fb1}</ProjectGuid>
+    <ProjectGuid>{b5e7544e-54c8-4ff4-aa6f-f655e29cf3e2}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
@@ -57,6 +57,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
     <Folder Include="Tables" />
+    <Folder Include="CompanyScript" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\DEPARTMENT.sql" />
@@ -65,5 +66,14 @@
     <Build Include="Tables\EMPLOYEE.sql" />
     <Build Include="Tables\PROJECT.sql" />
     <Build Include="Tables\WORKS_ON.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ApostolCompany.publish.xml" />
+    <None Include="CompanyScript\DEPARTMENT.sql" />
+    <None Include="CompanyScript\DEPENDENT.sql" />
+    <None Include="CompanyScript\DEPT_LOCATION.sql" />
+    <None Include="CompanyScript\EMPLOYEE.sql" />
+    <None Include="CompanyScript\PROJECT.sql" />
+    <None Include="CompanyScript\WORKS_ON.sql" />
   </ItemGroup>
 </Project>

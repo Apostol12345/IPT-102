@@ -1,42 +1,107 @@
 ﻿@page "/try"
 
-<p> MAKAKA PASA BA AKO THIS SEM SIR? </p>
 
-<button class="btn btn-primary" @onclick="ansA">YES</button>
+
+<h3>Question</h3>
+
+<!-- Button that triggers the click event -->
+
+
+<!-- Display message based on the condition -->
+<p>1. 1+1=?</p>
+
+<p>A.<button @onclick="OnButtonClick">2</button>@message</p><br />
 @code {
-    private string? _ansA = null;
+    // Variable to track the condition
+    private bool isClicked = false;
 
-    private void ansA()
+    // Variable to store the message
+    private string message = "";
+
+    // Method that runs when the button is clicked
+    private void OnButtonClick()
     {
-        _ansA = "";
+        // If-else logic
+        if (isClicked)
+        {
+        }
+        else
+        {
+            message = "Correct answer";
+            isClicked = true;  // Set the condition to true
+        }
+
     }
 }
-@if (_ansA is null)
-{
-}
-else
-{
-    <p>
-        Proverbs 16:3 - Commit Your Plans to God<br /><br />
-        "Commit to the Lord whatever you do, and he will establish your plans."<br /><br />
-
-        This verse teaches us the importance of dedicating our plans and actions to God. When we commit our ways to Him, He guides us and helps us accomplish our objectives. It's a reminder to seek God's will in all we do and trust that He will direct our paths towards success.@_ansB
-    </p>
-}
-<button class="btn btn-primary" @onclick="ansB">NO</button>
+<p>B.<button @onclick="OnButtonClick1">3</button>@message1</p>
 @code {
-    private string? _ansB = null;
+    // Variable to track the condition
+    private bool isClicked1 = false;
 
-    private void ansB()
+    // Variable to store the message
+    private string message1 = "";
+
+    // Method that runs when the button is clicked
+    private void OnButtonClick1()
     {
-        _ansB = "";
-    }
+        // If-else logic
+        if (isClicked1)
+        {
+        }
+        else
+        {
+            message1 = "Wrong asnwer";
+            isClicked1 = true;  // Set the condition to true
+        }
 
+    }
 }
-@if (_ansA is null)
-{
+
+<p>2. 6+9=?</p>
+
+<p>A.<button @onclick="OnButtonClick3">15</button>@message3</p><br />
+@code {
+    // Variable to track the condition
+    private bool isClicked3 = false;
+
+    // Variable to store the message
+    private string message3 = "";
+
+    // Method that runs when the button is clicked
+    private void OnButtonClick3()
+    {
+        // If-else logic
+        if (isClicked3)
+        {
+        }
+        else
+        {
+            message3 = "Correct answer";
+            isClicked3 = true;  // Set the condition to true
+        }
+
+    }
 }
-else
-{
-    <p><img src="/images/cons.jpeg" />  </p>
+<p>B.<button @onclick="OnButtonClick4">69</button>@message4</p>
+@code {
+    // Variable to track the condition
+    private bool isClicked4 = false;
+
+    // Variable to store the message
+    private string message4 = "";
+
+    // Method that runs when the button is clicked
+    private void OnButtonClick4()
+    {
+        // If-else logic
+        if (isClicked4)
+        {
+        }
+        else
+        {
+            message4 = "Wrong asnwer";
+            isClicked4 = true;  // Set the condition to true
+        }
+
+    }
 }
