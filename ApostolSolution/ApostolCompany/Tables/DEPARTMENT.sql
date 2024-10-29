@@ -5,8 +5,9 @@
 	[Mgr_ssn] CHAR(9) NOT NULL,
 	[Mgr_start_date] DATE NOT NULL,
 	constraint [PK_DEPARTMENT_Dnumber] primary key clustered ([Dnumber]),
-	constraint [FK_DEPARTMENT_Employee_Mgr_ssn] foreign key ([Mgr_ssn]) REFERENCES [EMPLOYEE] ([Ssn]), 
-	constraint [UK_DEPARTMENT_Dname] unique nonclustered (Dname)
+	
+	constraint [UK_DEPARTMENT_Dname] unique nonclustered (Dname), 
+    CONSTRAINT [FK_DEPARTMENT_Mgr_ssn] FOREIGN KEY ([Mgr_ssn]) REFERENCES [EMPLOYEE]([Ssn])
 
 	);
 	GO

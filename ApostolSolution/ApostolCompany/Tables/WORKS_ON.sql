@@ -4,7 +4,7 @@
 [Pno] INT NOT NULL,
 [Hours] DECIMAL(3,1) NOT NULL,
 
-constraint [FK_WORKS_ON_Ssn] foreign key (Essn) references EMPLOYEE(Ssn)
+constraint [FK_WORKS_ON_Essn] foreign key (Essn) references EMPLOYEE(Ssn)
 );
  
 go

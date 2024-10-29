@@ -1,38 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\apostol test code\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\basickicks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\basickicks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -40,92 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DEPARTMENT.sql ",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-09-22T15:52:48.196Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Profile.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
-              "RelativeDocumentMoniker": "Pages\\Profile.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
-              "RelativeToolTip": "Pages\\Profile.razor",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-17T03:25:18.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Component.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Component.razor",
-              "RelativeDocumentMoniker": "Pages\\Component.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Component.razor",
-              "RelativeToolTip": "Pages\\Component.razor",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAGEAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T09:09:23.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\MainLayout.razor",
-              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\MainLayout.razor",
-              "RelativeToolTip": "Shared\\MainLayout.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T09:06:57.096Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "About.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\About.razor",
-              "RelativeDocumentMoniker": "Pages\\About.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\About.razor",
-              "RelativeToolTip": "Pages\\About.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T08:58:00.931Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BasicKicks.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\BasicKicks.razor",
-              "RelativeDocumentMoniker": "Pages\\BasicKicks.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\BasicKicks.razor",
-              "RelativeToolTip": "Pages\\BasicKicks.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T08:57:16.89Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "NavMenu.razor",
-              "DocumentMoniker": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\NavMenu.razor",
-              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
-              "ToolTip": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\NavMenu.razor",
-              "RelativeToolTip": "Shared\\NavMenu.razor",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-15T08:55:25.781Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             }
           ]
         }

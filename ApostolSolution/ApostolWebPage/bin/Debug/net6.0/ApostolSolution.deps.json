@@ -7,14 +7,30 @@
   "targets": {
     ".NETCoreApp,Version=v6.0": {
       "ApostolSolution/1.0.0": {
+        "dependencies": {
+          "ApostolClassLibrary": "1.0.0"
+        },
         "runtime": {
           "ApostolSolution.dll": {}
+        }
+      },
+      "ApostolClassLibrary/1.0.0": {
+        "runtime": {
+          "ApostolClassLibrary.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }
   },
   "libraries": {
     "ApostolSolution/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ApostolClassLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

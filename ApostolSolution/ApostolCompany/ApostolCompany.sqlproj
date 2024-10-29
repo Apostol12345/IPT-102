@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
     <ProjectGuid>{b5e7544e-54c8-4ff4-aa6f-f655e29cf3e2}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql160DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.Sql150DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
@@ -58,6 +58,7 @@
     <Folder Include="Properties" />
     <Folder Include="Tables" />
     <Folder Include="CompanyScript" />
+    <Folder Include="StoredProcedure" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\DEPARTMENT.sql" />
@@ -66,14 +67,18 @@
     <Build Include="Tables\EMPLOYEE.sql" />
     <Build Include="Tables\PROJECT.sql" />
     <Build Include="Tables\WORKS_ON.sql" />
+    <Build Include="StoredProcedure\PROJECT_CREATE.sql" />
+    <Build Include="StoredProcedure\PROJECT_READ.sql" />
+    <Build Include="StoredProcedure\PROJECT_UPDATE.sql" />
+    <Build Include="StoredProcedure\PROJECT_DELETE.sql" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="ApostolCompany.publish.xml" />
     <None Include="CompanyScript\DEPARTMENT.sql" />
     <None Include="CompanyScript\DEPENDENT.sql" />
     <None Include="CompanyScript\DEPT_LOCATION.sql" />
     <None Include="CompanyScript\EMPLOYEE.sql" />
     <None Include="CompanyScript\PROJECT.sql" />
     <None Include="CompanyScript\WORKS_ON.sql" />
+    <None Include="ApostolCompany.publish.xml" />
   </ItemGroup>
 </Project>

@@ -2,20 +2,54 @@
 
 <div class="page">
 
-    <div class="sidebar">
+    @* <div class="sidebar">
         <NavMenu />
-    </div>
+    </div> *@
 
     <main>
-      
-       <div class="nav-item px-3">
-            <NavLink class="nav-link" href="contact">
-                <span class="oi oi-tablet" aria-hidden="true"></span> Contact
-            </NavLink>
-              <NavLink class="nav-link" href="about">
-                <span class="oi oi-info" aria-hidden="true"></span> About
-            </NavLink>
-        </div>
+        <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
+            <div class="container-fluid">
+                <a class="navbar-brand" href="javascript:void(0)">Logo</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="mynavbar">
+                    <ul class="navbar-nav me-auto">
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="">Home</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="profile">Profile</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="contact">Contact</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="about">About</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="highlights">Highlights</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="basic kicks">Basic Kicks</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="music">Music</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="try">Try</NavLink>
+                        </li>
+                        <li class="nav-item">
+                            <NavLink class="nav-link" href="calculator">Calculator</NavLink>
+                        </li>
+                    </ul>
+                    <form class="d-flex">
+                        <input class="form-control me-2" type="text" placeholder="Search">
+                        <button class="btn btn-primary" type="button">Search</button>
+                    </form>
+                </div>
+            </div>
+        </nav>
         <article class="content px-4">
             @Body
         </article>

@@ -1,0 +1,35 @@
+.rounded-image[b-zr7tmyifjq] {
+    border-radius: 50%; /* Makes the image circular */
+    width: 150px; /* Set a fixed width */
+    height: 150px; /* Set a fixed height */
+    object-fit: cover; /* Ensure the image covers the element's box */
+   /* display: block;
+    margin-left: auto;
+    margin-right: auto;*/
+}
+.login-container[b-zr7tmyifjq] {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    width: 300px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+    .login-container h2[b-zr7tmyifjq] {
+        margin: 0 0 10px;
+        text-align: center;
+    }
+
+    .login-container input[b-zr7tmyifjq] {
+        margin: 5px 0;
+        padding: 10px;
+        width: 100%;
+    }
+
+    .login-container button[b-zr7tmyifjq] {
+        margin-top: 10px;
+        padding: 10px;
+        width: 100%;
+        cursor: pointer;
+    }

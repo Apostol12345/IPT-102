@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "1v804x+j7DMywLeMB7+xnZT2mRO3hDh+rVhtbKvvLcA=",
+  "Hash": "o1q20xTknwtoctSnyLD+MOkBQtK8XW3MeXw8bhsTO9Y=",
   "Source": "ApostolSolution",
   "BasePath": "_content/ApostolSolution",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ApostolSolution\\wwwroot",
       "Source": "ApostolSolution",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApostolSolution.styles.css",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApostolSolution.styles.css",
       "SourceId": "ApostolSolution",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "ApostolSolution.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApostolSolution.styles.css"
+      "OriginalItemSpec": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ApostolSolution.styles.css"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApostolSolution.bundle.scp.css",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApostolSolution.bundle.scp.css",
       "SourceId": "ApostolSolution",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "ApostolSolution.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApostolSolution.bundle.scp.css"
+      "OriginalItemSpec": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ApostolSolution.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/css/open-iconic-bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.eot",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.otf",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.svg",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.ttf",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/font/fonts/open-iconic.woff",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\FONT-LICENSE",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/FONT-LICENSE",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\FONT-LICENSE"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\ICON-LICENSE",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/ICON-LICENSE",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\ICON-LICENSE"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\README.md",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\open-iconic\\README.md",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/open-iconic/README.md",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\css\\open-iconic\\README.md"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\site.css",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\css\\site.css",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\favicon.ico",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\favicon.ico",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\45.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\45.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/45.jpg",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\45.jpg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\6kicks.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\6kicks.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/6kicks.jpg",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\6kicks.jpg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\AxeKick.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\AxeKick.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/AxeKick.jpg",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\AxeKick.jpg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\Colet.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\Colet.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/Colet.jpg",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Colet.jpg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\cons.jpeg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\cons.jpeg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/cons.jpeg",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\cons.jpeg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd1.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd1.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/tkd1.jpg",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tkd1.jpg"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd2.2.png",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd2.2.png",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/tkd2.2.png",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tkd2.2.png"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd2.png",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd2.png",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/tkd2.png",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\tkd2.png"
     },
     {
-      "Identity": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd3.jpg",
+      "Identity": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\Images\\tkd3.jpg",
       "SourceId": "ApostolSolution",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
+      "ContentRoot": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\wwwroot\\",
       "BasePath": "_content/ApostolSolution",
       "RelativePath": "Images/tkd3.jpg",
       "AssetKind": "All",

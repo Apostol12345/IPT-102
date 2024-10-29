@@ -7,7 +7,7 @@
 [Relationship] VARCHAR(8) NULL,
 
 constraint [PK_DEPARTMENT_Dname] primary key (Essn, Dname),
-constraint [FK_DEPENDENT_Ssn] foreign key (Essn) references EMPLOYEE(Ssn),
+constraint [FK_DEPENDENT_Essn] foreign key (Essn) references EMPLOYEE(Ssn),
 );
 GO
 

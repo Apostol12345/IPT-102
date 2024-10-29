@@ -1,28 +1,48 @@
-﻿drop table dbo.DEPARTMENT;
-go
-
-create table dbo.DEPARTMENT
-(
-[Dname] varchar(15),
-[Dnumber] int,
-[Mgr_ssn] char(9),
-[Mgr_start_date] date
-constraint [PK_DEPARTMENT_Dnumber] primary key clustered ([Dnumber] asc),
-constraint [UK_DEPARTMENT_Dname] unique nonclustered (Dname)
-)
-go
-
-create nonclustered index [ix_DEPARTMENT_Dname] on dbo.DEPARTMENT([Dname] asc);
-go
+﻿USE ApostolCompany
+GO
 
 insert into dbo.DEPARTMENT
 values
-(N'HDY', N'1', N'864', N'1695-03-04' ),
-(N'FGU', N'2', N'244', N'1978-11-23' ),
-(N'TDG', N'3', N'199', N'1997-12-30' ),
-(N'APH', N'4', N'821', N'1999-03-13' ),
-(N'DTY', N'5', N'213', N'2007-10-19' )
-go
+(N'HDY', N'01', N'12', N'1695-03-04' ),
+(N'FGP', N'02', N'23', N'1978-11-23' ),
+(N'TDO', N'03', N'34', N'1997-12-30' ),
+(N'APN', N'04', N'45', N'1999-03-13' ),
+(N'DTO', N'05', N'56', N'2007-10-19' )
+GO
 
-select * from dbo.DEPARTMENT;
+SELECT * FROM dbo.DEPARTMENT;
+GO
 
+
+UPDATE dbo.DEPARTMENT
+SET [Dname] = 'ABC'
+WHERE [Dnumber] = 1;
+SELECT * FROM dbo.DEPARTMENT;
+--GO
+
+DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 23;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 34;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 45;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 1;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 2;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dnumber] = 3;
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dname] = 'FGP'
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dname] = 'TDO';
+--DELETE FROM dbo.DEPARTMENT
+--WHERE [Dname] = 'APN';
+
+--SELECT * FROM dbo.DEPARTMENT;
+--GO
+
+SELECT [Mgr_ssn]
+FROM DEPARTMENT
+LEFT JOIN EMPLOYEE
+ON DEPARTMENT.[Mgr_ssn] = EMPLOYEE.[Ssn]

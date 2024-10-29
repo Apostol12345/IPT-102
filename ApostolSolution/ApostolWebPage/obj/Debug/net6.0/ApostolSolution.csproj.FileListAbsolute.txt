@@ -125,3 +125,47 @@ C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ref
 C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.pdb
 C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.genruntimeconfig.cache
 C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ref\ApostolSolution.dll
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolClassLibrary.dll
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolClassLibrary.pdb
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.csproj.AssemblyReference.cache
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolS.446ED9CF.Up2Date
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Pages\Profile.razor.rz.scp.css
+C:\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\appsettings.Development.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\appsettings.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.staticwebassets.runtime.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.exe
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.deps.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.runtimeconfig.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.dll
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolSolution.pdb
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolClassLibrary.dll
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\bin\Debug\net6.0\ApostolClassLibrary.pdb
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.csproj.AssemblyReference.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.AssemblyInfoInputs.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.AssemblyInfo.cs
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.csproj.CoreCompileInputs.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.RazorAssemblyInfo.cs
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.sourcelink.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets.build.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets.development.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.ApostolSolution.Microsoft.AspNetCore.StaticWebAssets.props
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.build.ApostolSolution.props
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApostolSolution.props
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApostolSolution.props
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\staticwebassets.pack.json
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Pages\Calculator.razor.rz.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Pages\Profile.razor.rz.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\bundle\ApostolSolution.styles.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\scopedcss\projectbundle\ApostolSolution.bundle.scp.css
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolS.446ED9CF.Up2Date
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.dll
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\refint\ApostolSolution.dll
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.pdb
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ApostolSolution.genruntimeconfig.cache
+C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\obj\Debug\net6.0\ref\ApostolSolution.dll

@@ -1,35 +1,138 @@
 ﻿@page "/profile"
+@using ApostolSolution.Data
 
+<p>
+    First Name: @Fname<br />
+    Middle Name: @Mname<br />
+    Last Name: @Lname<br />
+</p>
+
+<button @onclick="FnameButton">First Name</button>
+<button @onclick="MnameButton">Middle Name</button>
+<button @onclick="LnameButton">Last Name</button>
+@code {
+    private bool FnameClicked = false;
+    private bool MnameClicked = false;
+    private bool LnameClicked = false;
+    private string Fname = "";
+    private string Mname = "";
+    private string Lname = "";
+    private void FnameButton()
+    {
+        if (FnameClicked)
+        {
+        }
+        else
+        {
+            Fname = "Jefferd";
+            FnameClicked = true;  // Set the condition to true
+        }
+
+    }
+    private void MnameButton()
+    {
+        if (MnameClicked)
+        {
+        }
+        else
+        {
+            Mname = "Santiago";
+            MnameClicked = true;  // Set the condition to true
+        }
+
+    }
+    private void LnameButton()
+    {
+        if (LnameClicked)
+        {
+        }
+        else
+        {
+            Lname = "Apostol";
+            LnameClicked = true;  // Set the condition to true
+        }
+
+    }
+}
 
 <h1>My Profile <br><br></h1>
 
 <head>
     <title>Centered Image</title>
-    <style>
-        .rounded-image {
-            border-radius: 50%; /* Makes the image circular */
-            width: 150px; /* Set a fixed width */
-            height: 150px; /* Set a fixed height */
-            object-fit: cover; /* Ensure the image covers the element's box */
-        }
-    </style>
 </head>
 
-<div style="text-align: left;">
+@* <div class="profile-picture">
     <img src="/images/colet.jpg"  alt="Description of image" class="rounded-image" /><br><br>
-</div>
+</div> *@
 
-<div style=" display: flex; align-items: flex-start; justify-content: space-between">
-    <p style=" width: 50%;text-align: left; margin-right: 20px;color: black    ;">
-        Name:              Jefferd. S. Apostol<br><br>
-        Sex:               Male<br><br>
-        Age:               21 Years old<br><br>
-        Weight:            66 kgs.<br><br>
-        Weight Category:   Feather Weight<br><br>
-        Event:             Kyorugi<br><br>
-        Belt:              Color: Yellow Belt<br><br>
+
+<EditForm Model="Input" OnInvalidSubmit="SubmitProfileData" name="student-form" method="Post">
+    <div class="row">
+        <div style=" display: flex; align-items: flex-start; justify-content: space-between">
+    <p style=" width: 50%;text-align: left; margin-right: 20px; color: black    ;">
+        Id:                @Input.Id<br /><br />
+        Name:              @Input.Name<br><br>
+        Sex:               @Input.Sex<br><br>
+        Age:               @Input.Age<br><br>
+        Weight:            @Input.Weight<br><br>
+        Weight Category:   @Input.Category<br><br>
+        Event:             @Input.Event<br><br>
+        Belt:              @Input.Belt<br><br>
 
        
     </p>
 </div>
+        <div class=" col-2">
+            <div class="login-container">
+                <InputText @bind-Value="Input.Id"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Id">Id</label>
+           
+                <InputText @bind-Value="Input.Name"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Name">Name</label>
+          
+                <InputText @bind-Value="Input.Sex"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Sex">Sex</label>
+            
+                <InputText @bind-Value="Input.Age"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Age">Age</label>
+            
+                <InputText @bind-Value="Input.Weight"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Weight">Weight</label>
+           
+                <InputText @bind-Value="Input.Category"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Category">Weight Category</label>
+          
+                <InputText @bind-Value="Input.Event"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Event">Event</label>
+            
+                <InputText @bind-Value="Input.Belt"
+                           class=" form-control" />
+                <label class=" form-label" for=" Input.Belt">Belt</label>
+            </div>
 
+        </div>
+    </div>
+
+    <button class=" btn btn-primary" type="Submit"> Save</button>
+    <button class=" btn btn-secondary" type="button" @onclick="NewStudent">New</button>
+</EditForm>
+
+
+@code
+{
+    private ProfileData Input { get; set; } = new();
+    private const string textRoute = "/profile";
+    private bool showProfileData;
+    private void NewStudent() => Input = new();
+    private void SubmitProfileData()
+    {
+        showProfileData = true;
+    }
+}
