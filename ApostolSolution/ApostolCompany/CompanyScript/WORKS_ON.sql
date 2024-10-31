@@ -12,6 +12,8 @@ go
 
 select * from dbo.WORKS_ON
 
+DELETE FROM WORKS_ON
+
 
 
 

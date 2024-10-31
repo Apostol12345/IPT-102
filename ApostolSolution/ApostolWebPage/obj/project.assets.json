@@ -27,23 +27,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\HUAWEI\\.nuget\\packages\\": {},
+    "C:\\Users\\USER\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
+      "projectUniqueName": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
       "projectName": "ApostolSolution",
-      "projectPath": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
-      "packagesPath": "C:\\Users\\HUAWEI\\.nuget\\packages\\",
-      "outputPath": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\",
+      "projectPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
+      "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+      "outputPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\HUAWEI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -59,8 +59,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
-              "projectPath": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj"
+            "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
+              "projectPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj"
             }
           }
         }

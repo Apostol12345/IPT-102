@@ -9,83 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ApostolSolution
 build_property.RootNamespace = ApostolSolution
-build_property.ProjectDir = C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage\
+build_property.ProjectDir = C:\JeffFiles\IPT-102\ApostolSolution\ApostolWebPage\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolWebPage
+build_property.MSBuildProjectDirectory = C:\JeffFiles\IPT-102\ApostolSolution\ApostolWebPage
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/App.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/About.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/About.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/BasicKicks.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/BasicKicks.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQmFzaWNLaWNrcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Component.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Component.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29tcG9uZW50LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Contact.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Contact.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Highlight.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Highlight.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSGlnaGxpZ2h0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Images.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Images.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1hZ2VzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Index.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Index.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Music.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Music.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTXVzaWMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Shared/SurveyPrompt.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Shared/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXFN1cnZleVByb21wdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/_Imports.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Calculator.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Calculator.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FsY3VsYXRvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-9vyjrc6vg7
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Profile.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Profile.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvZmlsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-zr7tmyifjq
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Shared/MainLayout.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Shared/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-bhpwwwfxiq
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Shared/NavMenu.razor]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Shared/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = U2hhcmVkXE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-s23xyv7h9x
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/Error.cshtml]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/_Host.cshtml]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/_Host.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0hvc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/jeff files/Apostol test code/IPT-102/ApostolSolution/ApostolWebPage/Pages/_Layout.cshtml]
+[C:/JeffFiles/IPT-102/ApostolSolution/ApostolWebPage/Pages/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX0xheW91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
