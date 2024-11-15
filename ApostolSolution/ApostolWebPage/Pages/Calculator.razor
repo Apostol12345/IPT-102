@@ -1,5 +1,5 @@
 ﻿@page "/calculator"
-<h3>Calculator</h3>
+@* <h3>Calculator</h3>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -7,64 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Simple Calculator</title>
-    <style  >
-        /* Inline CSS for demonstration purposes */
-        /* body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
-        }
-
-        .calculator {
-            border: 1px solid #ccc;
-            border-radius: 10px;
-            overflow: hidden;
-            width: 220px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-
-        #display {
-            width: 100%;
-            height: 50px;
-            text-align: right;
-            font-size: 24px;
-            border: none;
-            padding: 10px;
-            box-sizing: border-box;
-            background-color: #eee;
-        }
-
-        .buttons {
-            display: grid;
-            grid-template-columns: repeat(4, 1fr);
-        }
-
-        button {
-            width: 100%;
-            height: 60px;
-            font-size: 18px;
-            border: 1px solid #ddd;
-            background-color: #fff;
-            cursor: pointer;
-            transition: background-color 0.3s ease;
-        }
-
-        button:hover {
-            background-color: #f0f0f0;
-        }
-
-        button:active {
-            background-color: #ddd;
-        }
-
-        #zero {
-            grid-column: span 2;
-        } */
-    </style>
+   
 </head>
 <body>
     <div class="calculator">
@@ -113,5 +56,124 @@
         }
     </script>
 </body>
+</html> *@
+
+v
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CRUD Login Form</title>
+    <style>
+        /* body {
+            font-family: Arial, sans-serif;
+        }
+
+        .form-group {
+            margin-bottom: 10px;
+        }
+
+        .form-control {
+            padding: 8px;
+            width: 200px;
+        }
+
+        .button {
+            padding: 8px 15px;
+            cursor: pointer;
+        } */
+    </style>
+</head>
+<body>
+
+    <h1>User Management</h1>
+
+    <h2>Create or Update User</h2>
+    <div>
+        <div class="form-group">
+            <input type="text" id="username" class="form-control" placeholder="Username" required>
+        </div>
+        <div class="form-group">
+            <input type="password" id="password" class="form-control" placeholder="Password" required>
+        </div>
+        <button class="button" onclick="createUser()">Create User</button>
+    </div>
+
+    <h2>Existing Users</h2>
+    <ul id="userList"></ul>
+
+    <script>
+        class UserManager {
+            constructor() {
+                this.users = [];
+            }
+
+            createUser(username, password) {
+                const user = { username, password };
+                this.users.push(user);
+                this.renderUsers();
+                alert('User created!');
+            }
+
+            readUsers() {
+                return this.users;
+            }
+
+            updateUser(index, newUsername, newPassword) {
+                this.users[index] = { username: newUsername, password: newPassword };
+                this.renderUsers();
+                alert('User updated!');
+            }
+
+            deleteUser(index) {
+                this.users.splice(index, 1);
+                this.renderUsers();
+                alert('User deleted!');
+            }
+
+            renderUsers() {
+                const userList = document.getElementById('userList');
+                userList.innerHTML = '';
+                this.users.forEach((user, index) => {
+                    const li = document.createElement('li');
+                    li.textContent = `${user.username} `;
+                    const updateButton = document.createElement('button');
+                    updateButton.textContent = 'Update';
+                    updateButton.onclick = () => this.updateUserPrompt(index);
+                    const deleteButton = document.createElement('button');
+                    deleteButton.textContent = 'Delete';
+                    deleteButton.onclick = () => this.deleteUser(index);
+                    li.appendChild(updateButton);
+                    li.appendChild(deleteButton);
+                    userList.appendChild(li);
+                });
+            }
+
+            updateUserPrompt(index) {
+                const newUsername = prompt('Enter new username:', this.users[index].username);
+                const newPassword = prompt('Enter new password:', this.users[index].password);
+                if (newUsername && newPassword) {
+                    this.updateUser(index, newUsername, newPassword);
+                }
+            }
+        }
+
+        const userManager = new UserManager();
+
+        function createUser() {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+            if (username && password) {
+                userManager.createUser(username, password);
+                document.getElementById('username').value = '';
+                document.getElementById('password').value = '';
+            } else {
+                alert('Please fill in all fields.');
+            }
+        }
+    </script>
+
+</body>
 </html>
- 
+

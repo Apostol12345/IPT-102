@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApostolSolution")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8d7231837325c6a87e35b8b4232e4176d99ab3a6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f71c5ef9c83b50fd13922c5b6339786b07023b6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApostolSolution")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApostolSolution")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

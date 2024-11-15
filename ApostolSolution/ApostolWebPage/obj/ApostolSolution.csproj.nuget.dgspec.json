@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj": {}
+    "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj": {}
   },
   "projects": {
-    "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
+    "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj",
+        "projectUniqueName": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj",
         "projectName": "ApostolClassLibrary",
-        "projectPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\obj\\",
+        "projectPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj",
+        "packagesPath": "C:\\Users\\Lenovo Ideapad\\.nuget\\packages\\",
+        "outputPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo Ideapad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -65,24 +65,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj": {
+    "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
+        "projectUniqueName": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
         "projectName": "ApostolSolution",
-        "projectPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\",
+        "projectPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\ApostolSolution.csproj",
+        "packagesPath": "C:\\Users\\Lenovo Ideapad\\.nuget\\packages\\",
+        "outputPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Lenovo Ideapad\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -98,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
-                "projectPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj"
+              "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj": {
+                "projectPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\ApostolClassLibrary.csproj"
               }
             }
           }
@@ -118,6 +118,16 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -137,7 +147,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

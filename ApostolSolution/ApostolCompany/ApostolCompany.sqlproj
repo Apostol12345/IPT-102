@@ -59,6 +59,8 @@
     <Folder Include="Tables" />
     <Folder Include="CompanyScript" />
     <Folder Include="StoredProcedure" />
+    <Folder Include="Assessment" />
+    <Folder Include="Assessment\IM101" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="Tables\DEPARTMENT.sql" />
@@ -71,6 +73,8 @@
     <Build Include="StoredProcedure\PROJECT_READ.sql" />
     <Build Include="StoredProcedure\PROJECT_UPDATE.sql" />
     <Build Include="StoredProcedure\PROJECT_DELETE.sql" />
+    <Build Include="StoredProcedure\CreatePlayer.sql" />
+    <Build Include="Tables\Players.sql" />
   </ItemGroup>
   <ItemGroup>
     <None Include="CompanyScript\DEPARTMENT.sql" />
@@ -79,6 +83,9 @@
     <None Include="CompanyScript\EMPLOYEE.sql" />
     <None Include="CompanyScript\PROJECT.sql" />
     <None Include="CompanyScript\WORKS_ON.sql" />
+    <None Include="Assessment\IM101\TRY.sql" />
+    <None Include="CompanyScript\Players.sql" />
+    <None Include="CompanyScript\PlayerCrud.sql" />
     <None Include="ApostolCompany.publish.xml" />
   </ItemGroup>
 </Project>

@@ -24,3 +24,9 @@ C:\JeffFiles\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.pdb
 C:\JeffFiles\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.sqlproj.AssemblyReference.cache
 C:\JeffFiles\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.dll
 C:\JeffFiles\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.pdb
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.dacpac
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\bin\Debug\ApostolCompany.pdb
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.sqlproj.AssemblyReference.cache
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolCompany\obj\Debug\ApostolCompany.pdb

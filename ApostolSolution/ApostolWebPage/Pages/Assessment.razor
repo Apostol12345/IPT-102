@@ -1,0 +1,77 @@
+﻿@* @page "/ass"
+<h3>Assessment</h3>
+
+<EditForm Model="Input" OnValidSubmit="AddPlayer" FormName="edit-form" Method="post">
+    
+    <div class="form-group">
+        <label class="form-label">Id</label>
+        <InputText class="form-control" @bind-Value="Input.Id" />
+    </div>
+    <div class="form-group">
+        <label class="form-label">Id</label>
+        <InputText class="form-control" @bind-Value="Input.Name" />
+    </div>
+
+    <button type="submit">Add</button>
+    <button type="button" @onclick="NewPlayer">New</button>
+    <button type="button" @onclick="UpdatePlayer">Update</button>
+</EditForm>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">Id</th>
+            <th scope="col">Name</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Players)
+        {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.Name</td>
+                <td>
+                    <button type="button" @onlclick="() EditPlayer(item)">Edit</button>
+                    <button type="button" @onlclick="() DeletePlayer(item)">Delete</button>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="form-group">
+    <InputText class="form-control" @bind-Value="PersonName"/>
+    <button type="button" @onclick="SearchPlayer">Search</button>
+</div>
+<button type="button" @onclick="SearchPlayer">Search</button>
+
+@code 
+{
+    private string PlayerName = "";
+    private List<Player> Players { get; set; } = new List<Player>();
+    private Player Input { get; set; } = new();
+   
+    private void SearchPlayer()
+    {
+        foreach (var item in Players)
+        {
+            if (item.Name.Contains(PlayerName))
+            {
+                Input = item;
+                return;
+            }
+        }
+    }
+
+    internal class Player
+    {
+        public string? Id { get; set; }
+        public string? Name { get; set; }
+    }
+}
+ *@
+
+
+
+

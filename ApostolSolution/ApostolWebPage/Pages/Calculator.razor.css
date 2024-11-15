@@ -1,4 +1,4 @@
-﻿body {
+﻿/*body {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -52,4 +52,24 @@ button {
 
 #zero {
     grid-column: span 2;
+}*/
+
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.form-group {
+    margin-bottom: 10px;
+}
+
+.form-control {
+    padding: 8px;
+    width: 200px;
+}
+
+.button {
+    padding: 8px 15px;
+    cursor: pointer;
 }

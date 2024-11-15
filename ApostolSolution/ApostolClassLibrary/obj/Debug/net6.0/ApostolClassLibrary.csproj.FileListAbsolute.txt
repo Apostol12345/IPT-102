@@ -22,3 +22,15 @@ C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolClassLibrary\obj\
 C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\refint\ApostolClassLibrary.dll
 C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.pdb
 C:\jeff files\Apostol test code\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ref\ApostolClassLibrary.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\bin\Debug\net6.0\ApostolClassLibrary.deps.json
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\bin\Debug\net6.0\ApostolClassLibrary.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\bin\Debug\net6.0\ApostolClassLibrary.pdb
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.AssemblyInfoInputs.cache
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.AssemblyInfo.cs
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.csproj.CoreCompileInputs.cache
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.sourcelink.json
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\refint\ApostolClassLibrary.dll
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ApostolClassLibrary.pdb
+C:\Jeff Files\IPT-102\ApostolSolution\ApostolClassLibrary\obj\Debug\net6.0\ref\ApostolClassLibrary.dll

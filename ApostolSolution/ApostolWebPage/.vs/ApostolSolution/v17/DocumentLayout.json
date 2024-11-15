@@ -1,53 +1,104 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\",
+  "WorkspaceRootPath": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\Copy of CreatePlayer.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\CreatePlayer.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\PlayerCrud.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jefffiles\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\Players.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Assessment\\IM101\\TRY.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\assessment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\assessment.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\about.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\calculator.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\component.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\contact.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\highlight.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\highlight.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\images.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\music.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\profile.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jefffiles\\ipt-102\\apostolsolution\\apostolwebpage\\data\\profiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:data\\profiledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|c:\\jeff files\\ipt-102\\apostolsolution\\apostolwebpage\\pages\\basickicks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4AC2D05-DD01-4B57-AF4A-DBFE52F792AD}|ApostolSolution.csproj|solutionrelative:pages\\basickicks.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Interfaces\\IProfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\Players.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Models\\Profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\PlayersCRUD.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Stored Procedures\\CreatePlayer.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\CreatePlayer.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\PlayerCrud.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\PlayerCrud.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\Copy of CreatePlayer.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\WORKS_ON.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+      "AbsoluteMoniker": "D:0:0:{B5E7544E-54C8-4FF4-AA6F-F655E29CF3E2}|..\\ApostolCompany\\ApostolCompany.sqlproj|C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,98 +112,288 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PROJECT_CREATE.sql ",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql",
-              "RelativeDocumentMoniker": "..\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql\r\n(localdb)\\ProjectModels.ApostolCompany_2\r\n(LAPTOP-9N9ASTPS\\USER)",
+              "DocumentIndex": 20,
+              "Title": "Players.sql",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\Players.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\Dbo\\Scripts\\Players.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\Players.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\Dbo\\Scripts\\Players.sql",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-31T01:43:04.195Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-14T09:53:27.946Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EMPLOYEE.sql ",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql",
-              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql",
-              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\EMPLOYEE.sql",
+              "Title": "Copy of CreatePlayer.sql ",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\Copy of CreatePlayer.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\StoredProcedure\\Copy of CreatePlayer.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\Copy of CreatePlayer.sql\r\n(localdb)\\ProjectModels.ApostolCompany_2\r\n(LAPTOP-NM2FO6KD\\Lenovo Ideapad)",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-31T01:35:42.202Z",
+              "WhenOpened": "2024-11-15T11:27:21.242Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DEPARTMENT.sql ",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
-              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\DEPARTMENT.sql",
+              "DocumentIndex": 2,
+              "Title": "CreatePlayer.sql ",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\CreatePlayer.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\StoredProcedure\\CreatePlayer.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\CreatePlayer.sql\r\n(localdb)\\ProjectModels.ApostolCompany_2\r\n(LAPTOP-NM2FO6KD\\Lenovo Ideapad)",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-31T01:27:55.736Z",
+              "WhenOpened": "2024-11-14T13:51:51.401Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "WORKS_ON.sql ",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\WORKS_ON.sql",
-              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\WORKS_ON.sql",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\WORKS_ON.sql",
-              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\WORKS_ON.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-31T01:38:22.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Profile.razor",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
-              "RelativeDocumentMoniker": "Pages\\Profile.razor",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
-              "RelativeToolTip": "Pages\\Profile.razor",
-              "ViewState": "AgIAAHQAAAAAAAAAAAAAAIoAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "Calculator.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Calculator.razor",
+              "RelativeDocumentMoniker": "Pages\\Calculator.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Calculator.razor",
+              "RelativeToolTip": "Pages\\Calculator.razor",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-29T08:27:50.088Z",
+              "WhenOpened": "2024-11-13T09:20:43.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProfileData.cs",
-              "DocumentMoniker": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\Data\\ProfileData.cs",
-              "RelativeDocumentMoniker": "Data\\ProfileData.cs",
-              "ToolTip": "C:\\JeffFiles\\IPT-102\\ApostolSolution\\ApostolWebPage\\Data\\ProfileData.cs",
-              "RelativeToolTip": "Data\\ProfileData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:27:35.246Z",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwCgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T08:28:30.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IProfile.cs",
-              "DocumentMoniker": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Interfaces\\IProfile.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Interfaces\\IProfile.cs",
-              "ToolTip": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Interfaces\\IProfile.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Interfaces\\IProfile.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:25:52.738Z"
+              "Title": "Assessment.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Assessment.razor",
+              "RelativeDocumentMoniker": "Pages\\Assessment.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Assessment.razor",
+              "RelativeToolTip": "Pages\\Assessment.razor",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-12T13:00:56.37Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Profile.cs",
-              "DocumentMoniker": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Models\\Profile.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Models\\Profile.cs",
-              "ToolTip": "C:\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Models\\Profile.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\jeff files\\Apostol test code\\IPT-102\\ApostolSolution\\ApostolClassLibrary\\Models\\Profile.cs",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-29T08:25:41.472Z"
+              "DocumentIndex": 1,
+              "Title": "PROJECT_CREATE.sql ",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\StoredProcedure\\PROJECT_CREATE.sql\r\n(localdb)\\ProjectModels.ApostolCompany_2\r\n(LAPTOP-NM2FO6KD\\Lenovo Ideapad)",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T09:24:08.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:57.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Component.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Component.razor",
+              "RelativeDocumentMoniker": "Pages\\Component.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Component.razor",
+              "RelativeToolTip": "Pages\\Component.razor",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:35.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerCrud.sql ",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\PlayerCrud.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\PlayerCrud.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\PlayerCrud.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\PlayerCrud.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T13:53:16.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "About.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\About.razor",
+              "RelativeDocumentMoniker": "Pages\\About.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\About.razor",
+              "RelativeToolTip": "Pages\\About.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:21:03.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contact.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Contact.razor",
+              "RelativeDocumentMoniker": "Pages\\Contact.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Contact.razor",
+              "RelativeToolTip": "Pages\\Contact.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:33.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:30.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Highlight.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Highlight.razor",
+              "RelativeDocumentMoniker": "Pages\\Highlight.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Highlight.razor",
+              "RelativeToolTip": "Pages\\Highlight.razor",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:27.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Images.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Images.razor",
+              "RelativeDocumentMoniker": "Pages\\Images.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Images.razor",
+              "RelativeToolTip": "Pages\\Images.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T09:20:21.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Profile.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
+              "RelativeDocumentMoniker": "Pages\\Profile.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Profile.razor",
+              "RelativeToolTip": "Pages\\Profile.razor",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwI0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T08:42:15.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BasicKicks.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\BasicKicks.razor",
+              "RelativeDocumentMoniker": "Pages\\BasicKicks.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\BasicKicks.razor",
+              "RelativeToolTip": "Pages\\BasicKicks.razor",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T08:28:22.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Music.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Music.razor",
+              "RelativeDocumentMoniker": "Pages\\Music.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Music.razor",
+              "RelativeToolTip": "Pages\\Music.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T08:28:20.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolWebPage\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-13T08:28:19.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Players.sql",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\Players.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\CompanyScript\\Players.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\CompanyScript\\Players.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\CompanyScript\\Players.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T13:50:48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PlayersCRUD.sql",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\PlayersCRUD.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\Dbo\\Scripts\\PlayersCRUD.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Scripts\\PlayersCRUD.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\Dbo\\Scripts\\PlayersCRUD.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T13:46:36.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CreatePlayer.sql",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Stored Procedures\\CreatePlayer.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\Dbo\\Stored Procedures\\CreatePlayer.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Dbo\\Stored Procedures\\CreatePlayer.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\Dbo\\Stored Procedures\\CreatePlayer.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-14T10:14:20.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TRY.sql",
+              "DocumentMoniker": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Assessment\\IM101\\TRY.sql",
+              "RelativeDocumentMoniker": "..\\ApostolCompany\\Assessment\\IM101\\TRY.sql",
+              "ToolTip": "C:\\Jeff Files\\IPT-102\\ApostolSolution\\ApostolCompany\\Assessment\\IM101\\TRY.sql",
+              "RelativeToolTip": "..\\ApostolCompany\\Assessment\\IM101\\TRY.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-11-13T01:23:41.159Z",
+              "EditorCaption": ""
             }
           ]
         }

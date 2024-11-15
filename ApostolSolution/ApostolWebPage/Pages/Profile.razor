@@ -1,4 +1,4 @@
-﻿@page "/profile"
+﻿@* @page "/profile"
 @using ApostolSolution.Data
 
 <p>
@@ -61,26 +61,30 @@
     <title>Centered Image</title>
 </head>
 
-@* <div class="profile-picture">
+<div class="profile-picture">
     <img src="/images/colet.jpg"  alt="Description of image" class="rounded-image" /><br><br>
-</div> *@
+</div>
+
+ @if(showProfileData)
+{
+    <div>
+        <p style=" width: 50%;text-align: left; margin-right: 20px; color: black    ;">
+            Id:                @Input.Id<br /><br />
+            Name:              @Input.Name<br><br>
+            Sex:               @Input.Sex<br><br>
+            Age:               @Input.Age<br><br>
+            Weight:            @Input.Weight<br><br>
+            Weight Category:   @Input.Category<br><br>
+            Event:             @Input.Event<br><br>
+            Belt:              @Input.Belt<br><br>
 
 
-<EditForm Model="Input" OnInvalidSubmit="SubmitProfileData" name="student-form" method="Post">
+        </p>
+    </div>
+}
+<EditForm Model="Input" OnInvalidSubmit="SubmitProfileData" name="profile-form" method="Post">
     <div class="row">
         <div style=" display: flex; align-items: flex-start; justify-content: space-between">
-    <p style=" width: 50%;text-align: left; margin-right: 20px; color: black    ;">
-        Id:                @Input.Id<br /><br />
-        Name:              @Input.Name<br><br>
-        Sex:               @Input.Sex<br><br>
-        Age:               @Input.Age<br><br>
-        Weight:            @Input.Weight<br><br>
-        Weight Category:   @Input.Category<br><br>
-        Event:             @Input.Event<br><br>
-        Belt:              @Input.Belt<br><br>
-
-       
-    </p>
 </div>
         <div class=" col-2">
             <div class="login-container">
@@ -130,9 +134,19 @@
     private ProfileData Input { get; set; } = new();
     private const string textRoute = "/profile";
     private bool showProfileData;
-    private void NewStudent() => Input = new();
+    private void NewStudent()
+    {
+        showProfileData = false;
+        Input = new();
+    }
     private void SubmitProfileData()
     {
         showProfileData = true;
     }
+    protected override async Task OnInitializedAsync()
+    {
+        showProfileData = false;
+        await base.OnInitializedAsync();
+    }
 }
+ *@
